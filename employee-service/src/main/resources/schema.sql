@@ -1,0 +1,1 @@
+create table emp(id int, name varchar(20), salary double)

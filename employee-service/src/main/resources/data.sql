@@ -1,0 +1,1 @@
+insert into  emp values(1, 'madhav',12.9);
